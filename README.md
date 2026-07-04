@@ -11,13 +11,14 @@
 ![Quant Finance](https://img.shields.io/badge/Quant%20Finance-1E8E3E?style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=flat&logo=opensourceinitiative&logoColor=white)
 
-I'm a **Data Science / ML student** who likes building systems that actually make sense of messy, real-world data — from market signals to medical scans to customer conversations.
+I'm a **Data Science / ML student** who likes building systems that actually make sense of messy, real-world data — from market signals to medical scans to enterprise decision-making.
 I work at the intersection of **machine learning, data engineering, and applied analytics**, with a growing interest in **quantitative and financial systems**.
 
 ---
 
 ## 🚀 About Me
 
+* 🏢 Building an **Enterprise Profit Intelligence Platform** — using data-driven insights to help businesses track and optimize profitability
 * 📈 Building a **Quantitative Trading Intelligence Platform** — combining market data analysis with ML-driven signals
 * 🤖 Developed **Telecom Copilot**, an ML/NLP-assisted tool for the telecom domain
 * 🩺 Worked on **Liver Cancer Analysis** — applying ML to medical/healthcare data for diagnostic insights
@@ -33,6 +34,7 @@ I work at the intersection of **machine learning, data engineering, and applied 
 
 * Machine Learning & applied data science
 * Quantitative analysis & trading systems
+* Enterprise analytics & business intelligence
 * NLP & real-world language applications
 * Healthcare & scientific data analysis
 * Data pipelines & streaming systems
@@ -75,6 +77,9 @@ I work at the intersection of **machine learning, data engineering, and applied 
 
 ## 📌 Featured Projects
 
+* 🏢 **Enterprise Profit Intelligence Platform**
+  A data-driven platform designed to help enterprises analyze and optimize profitability through analytics and intelligent insights.
+
 * 📈 **Quantitative Trading Intelligence Platform**
   A platform combining market data analysis and ML-based signals to support trading decisions.
 
@@ -97,9 +102,8 @@ I work at the intersection of **machine learning, data engineering, and applied 
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: [sahil-vasani](https://github.com/sahil-vasani)
-*  linkedin : [sahil-vasani](https://www.linkedin.com/in/sahil-vasani/)
-
+* 💼 LinkedIn: [linkedin.com/in/sahil-vasani](https://www.linkedin.com/in/sahil-vasani/)
+* 🐙 GitHub: [sahil-vasani](https://github.com/sahil-vasani)
 * 📧 Feel free to reach out for collaborations on ML, data, or quant-related projects!
 
 ---
