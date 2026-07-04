@@ -98,7 +98,7 @@ I work at the intersection of **machine learning, data engineering, and applied 
 ## 📫 Connect With Me
 
 * 💼 GitHub: [sahil-vasani](https://github.com/sahil-vasani)
-*  linkedin : [sahil-vasani](https://www.linkedin.com/in/sahil-vasani/)]
+*  linkedin : [sahil-vasani](https://www.linkedin.com/in/sahil-vasani/)
 
 * 📧 Feel free to reach out for collaborations on ML, data, or quant-related projects!
 
